@@ -6,6 +6,8 @@
 - GPU Driver: Game Ready Driver 572.83(latest,2025.April)
 - DirectX 12 Agility SDK 1.613.0(up to)
 - DirectX Shader Copiler: 1.8.2502.8(latest, 2025.April)
+- Platform Toolset: Visual Studio 2022(v143)
+- Windows SDK: latest(10.0.22621.0)
 
 https://devblogs.microsoft.com/directx/d3d12-work-graphs/
 
